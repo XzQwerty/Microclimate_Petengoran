@@ -1,5 +1,3 @@
-Tentu, ini adalah format rapi dari informasi yang Anda berikan dalam Bahasa Indonesia:
-
 ---
 
 # Sistem Pemantauan Iklim Mikro
