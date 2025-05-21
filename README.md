@@ -70,7 +70,7 @@ Untuk menjalankan skrip dan berinteraksi dengan sensor, pastikan dependensi beri
 
 1.  **Klon Repositori**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/XzQwerty/Microclimate_Petengoran.git
     cd Microclimate
     ```
 
