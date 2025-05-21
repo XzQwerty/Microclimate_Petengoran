@@ -123,15 +123,3 @@ Untuk menjalankan skrip dan berinteraksi dengan sensor, pastikan dependensi beri
 * Log dan file sementara (`.log`, `.json`) dikecualikan dari repositori agar tetap bersih.
 * Untuk sensor berbasis Arduino, gunakan file `.ino` di direktori sensor masing-masing (misalnya, `DFRobot_RainfallSensor/examples/` jika tidak diabaikan).
 * Periksa secara teratur kalibrasi sensor dan stabilitas koneksi untuk memastikan data yang akurat.
-
----
-
-## Kontribusi
-
-Kontribusi sangat kami harapkan! Silakan ajukan *pull request* atau buka *issue* untuk *bug*, peningkatan, atau permintaan fitur.
-
----
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah **Lisensi MIT**. Lihat file `LICENSE` di direktori sensor masing-masing untuk detailnya.
